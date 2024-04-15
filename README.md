@@ -25,7 +25,8 @@ Also used some addvanced features such as:
 
 ![image](https://github.com/PranavP4tel/Sales-Report-PowerBI/assets/89249812/3c382c97-9fa6-4528-878f-46e92e56cc2a)
 ![image](https://github.com/PranavP4tel/Sales-Report-PowerBI/assets/89249812/eb909630-34d7-4a71-baaf-49ce7e07c20e)
-![image](https://github.com/PranavP4tel/Sales-Report-PowerBI/assets/89249812/24e9211d-c3fb-4903-8d13-47eea05611d3)
+![image](https://github.com/PranavP4tel/Sales-Report-PowerBI/assets/89249812/795ab7ac-b0b1-4eb3-9d55-dadce8e8b23a)
+
 
 
 
