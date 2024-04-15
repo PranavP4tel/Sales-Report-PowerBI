@@ -20,7 +20,7 @@ Also used some addvanced features such as:
 2. Created a menu to navigate between report pages
 3. Crafted buttons to dynamically switch between monthly or weekly trend of car sales using bookmarks.
 4. Incorporated a decomposition tree for selective analysis among the fields
-5. Utilized a Q&A visual to insights to any questions
+5. Utilized a Q&A visual to provide insights to any questions
 
 
 ![image](https://github.com/PranavP4tel/Sales-Report-PowerBI/assets/89249812/3c382c97-9fa6-4528-878f-46e92e56cc2a)
