@@ -1,31 +1,19 @@
 # Sales-Report-PowerBI
 
 Create a PowerBI report to effectively track and analyse car sales performance.
-Create Key Performance Indicators for:
-    1. Sales Overview:
-        ◦ Year-to-Date (YTD) Total Sales
-        ◦ Month-to-Date (MTD) Total Sales
-        ◦ Year-over-Year (YOY) Growth in Total Sales
-        ◦ Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales
-    2. Average Price Analysis:
-        ◦ YTD Average Price
-        ◦ MTD Average Price
-        ◦ YOY Growth in Average Price
-        ◦ Difference between YTD Average Price and PTYD Average Price
-    3. Cars Sold Metrics:
-        ◦ YTD Cars Sold
-        ◦ MTD Cars Sold
-        ◦ YOY Growth in Cars Sold
-        ◦ Difference between YTD Cars Sold and PTYD Cars Sold
+Create Key Performance Indicators for:  
+1. Sales Overview: Year-to-Date (YTD) Total Sales, Month-to-Date (MTD) Total Sales, Year-over-Year (YOY) Growth in Total Sales & Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales
+2. Average Price Analysis: YTD Average Price, MTD Average Price, YOY Growth in Average Price, Difference between YTD Average Price and PTYD Average Price
+3. Cars Sold Metrics: YTD Cars Sold, MTD Cars Sold, YOY Growth in Cars Sold, Difference between YTD Cars Sold and PTYD Cars Sold
 
 Created visuals for:
-    1. YTD Sales Weekly/Monthly Trend
-    2. YTD Total Sales by selected parameter
-    3. YTD Cars Sold by Dealer Region
-    4. Company-Wise Sales Trend in Grid Form
-    5. Details Grid Showing All Car Sales Information
-    6. Sales Breakdown as per Year, Region, Company, Color and Gender
-    7. Q&A for any additional insights
+1. YTD Sales Weekly/Monthly Trend
+2. YTD Total Sales by selected parameter
+3. YTD Cars Sold by Dealer Region
+4. Company-Wise Sales Trend in Grid Form
+5. Details Grid Showing All Car Sales Information
+6. Sales Breakdown as per Year, Region, Company, Color and Gender
+7. Q&A for any additional insights
 
 Also used some addvanced features such as:
 1. Utilized a parameter containing different fields to create a dynamic visual showcasing a pie chart as per selected field
